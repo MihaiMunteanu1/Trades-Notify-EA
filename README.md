@@ -1,8 +1,8 @@
-# TradeNotifyEA v3 - Advanced Trading Notification System for MT5
+# TradeNotifyEA - Advanced Trading Notification System for MT5
 
 ## Overview
 
-TradeNotifyEA v3 is a comprehensive MetaTrader 5 Expert Advisor that provides real-time trade notifications via Telegram, complete with automated statistics tracking, chart screenshots, and detailed trade reporting. Designed for traders who want to monitor their trading activity remotely and maintain detailed performance records.
+TradeNotifyEA is a comprehensive MetaTrader 5 Expert Advisor that provides real-time trade notifications via Telegram, complete with automated statistics tracking, chart screenshots, and detailed trade reporting. Designed for traders who want to monitor their trading activity remotely and maintain detailed performance records.
 
 ## Key Features
 
