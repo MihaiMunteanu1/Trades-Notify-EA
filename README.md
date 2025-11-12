@@ -150,7 +150,6 @@ The EA uses the `OnTradeTransaction()` event handler to monitor:
 
 #### Entry Signal Example
 ```
-ℹ Flaviu trade idea
 #EURUSD - Buy NOW!
 ⬆ Lot Management: full lot
 ⬆ Entry Price: 1.08500
@@ -161,7 +160,6 @@ Note - Use proportional lot size with your own account balance
 
 #### Exit Signal Example
 ```
-❌ Flaviu trade idea
 #EURUSD close total
 ❌ Exit Price: 1.08650 ( +15.0 pips )
 ❌ Profit Made: 1.25%
