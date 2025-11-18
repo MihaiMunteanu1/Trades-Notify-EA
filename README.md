@@ -177,7 +177,6 @@ Profit % = (Trading Profit / Start Balance) × 100
 
 #### Entry Signal Example
 ```
-ℹ Flaviu trade idea
 #EURUSD - Buy NOW!
 ⬆ Lot Management: full lot
 ⬆ Entry Price: 1.08500
@@ -188,7 +187,6 @@ Note - Use proportional lot size with your own account balance
 
 #### SL/TP Update Example
 ```
-ℹ Flaviu trade idea
 #EURUSD - ⬆ Buy NOW!
 ⬆ Entry Price: 1.08500
 ⬆ TakeProfit: 1.08650 ( 15.0 pips )
@@ -198,7 +196,6 @@ Note - Use proportional lot size with your own account balance
 
 #### Exit Signal Example
 ```
-❌ Flaviu trade idea
 #EURUSD close total
 ❌ Exit Price: 1.08650 ( +15.0 pips )
 ❌ Profit Made: 1.25%
@@ -207,7 +204,6 @@ Note - Am inchis restul pozitiei
 
 #### Pending Order First SL Addition
 ```
-ℹ Flaviu trade idea
 #EURUSD - ⬆ Buy Stop
 ⬆ Lot Management: full lot
 ⬆ Entry Price: 1.08500
@@ -218,7 +214,7 @@ Note - Use proportional lot size with your own account balance
 
 #### Statistics Report Example
 ```
-📊 Flaviu Trading Statistics - This Week
+📊 Trading Statistics - This Week
 
 📈 Total Trades: 12
 📊 Total Pips: +145.50
